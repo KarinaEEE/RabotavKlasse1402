@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RabotavKlasse1402", "RabotavKlasse1402\RabotavKlasse1402.pyproj", "{FE6AD26B-A691-47C5-8066-6294D11652F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE6AD26B-A691-47C5-8066-6294D11652F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE6AD26B-A691-47C5-8066-6294D11652F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A3B85B6-809E-4F95-9C5B-4829955C4B5F}
+	EndGlobalSection
+EndGlobal
